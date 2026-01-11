@@ -1,5 +1,5 @@
 { "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "your-worker-name",
+  "name": "Preact",
   "compatibility_date": "2026-01-11",
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
