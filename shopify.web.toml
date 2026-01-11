@@ -1,0 +1,5 @@
+name = "Preact"
+roles = ["frontend"]
+
+[commands]
+dev = "pnpm run dev"
