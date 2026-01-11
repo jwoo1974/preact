@@ -17,6 +17,7 @@
 		"@shopify/polaris-types": "^1.0.1",
 		"@types/node": "^25.0.6",
 		"typescript": "^5.9.3",
-		"vite": "^7.0.4"
+		"vite": "^7.0.4",
+		"wrangler": "^4.58.0"
 	}
 }
